@@ -194,9 +194,7 @@ button {
 }
 
 
-/*  
-   ACERCA DE MI
-  */
+/* ACERCA DE MI*/
 
 .about-container {
     max-width: 1000px;
@@ -254,9 +252,7 @@ button {
 }
 
 
-/*  
-   HABILIDADES
-  */
+/* HABILIDADES*/
 
 .skills-container {
     max-width: 800px;
@@ -273,8 +269,7 @@ button {
     margin-bottom: 8px;
 }
 
-/* TODAS LAS BARRAS TIENEN
-   EXACTAMENTE EL MISMO ANCHO */
+/*BARRAS*/
 
 .progress {
     width: 100%;
@@ -297,9 +292,7 @@ button {
 }
 
 
-/*  
-   PROYECTOS
-  */
+/* PROYECTOS*/
 
 .projects-container {
     max-width: 1000px;
@@ -341,9 +334,7 @@ button {
 }
 
 
-/*  
-   CONTACTO
-  */
+/* CONTACTO*/
 
 .contact-container {
     max-width: 1000px;
@@ -376,9 +367,7 @@ button {
 }
 
 
-/*  
-   FORMULARIO
-  */
+/* FORMULARIO*/
 
 .form-group {
     margin-bottom: 20px;
@@ -422,9 +411,7 @@ button {
 }
 
 
-/*  
-   FOOTER
-  */
+/* FOOTER*/
 
 .footer {
     background-color: var(--negro);
@@ -462,9 +449,7 @@ button {
 }
 
 
-/*  
-   VENTANA EMERGENTE
-  */
+/* VENTANA EMERGENTE*/
 
 .modal {
     display: none;
