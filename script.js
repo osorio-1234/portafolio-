@@ -8,7 +8,7 @@ menuToggle.addEventListener("click", () => {
 });
 
 
-/*    CERRAR MENU AL PRESIONAR   UN ENLACE */
+/*    CERRAR MENU AL PRESIONAR UN ENLACE */
 
 const links = document.querySelectorAll(".nav-links a");
 
@@ -23,7 +23,7 @@ links.forEach(link => {
 });
 
 
-/*     BARRAS DE HABILIDADES  */
+/* BARRAS*/
 const progressBars = document.querySelectorAll(".progress-bar");
 
 function mostrarBarras() {
@@ -220,7 +220,7 @@ form.addEventListener("submit", (event) => {
 });
 
 
-/* Mostrar error */
+/* error */
 
 function mostrarError(input, mensaje) {
 
@@ -248,7 +248,7 @@ function limpiarError(input) {
 }
 
 
-/*     AÑO AUTOMATICO */ 
+/*     AÑO */ 
 const year = document.getElementById("year");
 
 year.textContent = new Date().getFullYear();
